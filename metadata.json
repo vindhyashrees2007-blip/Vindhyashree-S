@@ -1,0 +1,6 @@
+{
+  "name": "Syndicate Studio",
+  "description": "Cross-platform social media content and visual studio powered by Gemini. Simultaneously draft tailored posts and bespoke aspect-ratio imagery for LinkedIn, X/Twitter, and Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
